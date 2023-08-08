@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ali-is/static/css/main.570f95a8.css",
+    "main.js": "/ali-is/static/js/main.992e522a.js",
+    "index.html": "/ali-is/index.html",
+    "main.570f95a8.css.map": "/ali-is/static/css/main.570f95a8.css.map",
+    "main.992e522a.js.map": "/ali-is/static/js/main.992e522a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.570f95a8.css",
+    "static/js/main.992e522a.js"
+  ]
+}
